@@ -1,9 +1,10 @@
 #include <stdio.h>
- /**
-  * main - Prints the alphabet.
-  *
-  * Return: Always 0 (Success)
-  */
+
+/**
+ * main - Prints the alphabet.
+ *
+ * Return: Always 0 (Success)
+ */
 int main(void)
 {
 	char alp[26] = "abcdefghijklmnopqrstuvwxyz";
@@ -13,6 +14,6 @@ int main(void)
 	{
 		putchar(alp[i]);
 	}
-	putchar('\n');
+	putchar('\n')
 	return (0);
 }

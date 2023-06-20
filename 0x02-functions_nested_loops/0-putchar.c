@@ -10,12 +10,12 @@ int main(void)
 {
 	_putchar('_');
 	_putchar('p');
-	_Putchar('u');
-	_Putchar('t');
-	_Putchar('c');
-	_Putchar('h');
-	_Putchar('a');
-	_Putchar('r');
-	_Putchar("\n");
+	_putchar('u');
+	_putchar('t');
+	_putchar('c');
+	_putchar('h');
+	_putchar('a');
+	_putchar('r');
+	_putchar("\n");
 	return (0);
 }

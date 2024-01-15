@@ -22,22 +22,22 @@ int divide(int a, int b) {
 }
 
 /**
- * multiply - multiply 2 int
+ * mul - multiply 2 int
  * @a: first int
  * @b: second int
  * Return: multiplication
  */
-int multiply(int a, int b) {
+int mul(int a, int b) {
     return a * b;
 }
 
 /**
- * modulus - modulus of 2 int
+ * mod - modulus of 2 int
  * @a: first int
  * @b: second int
  * Return: modulus
  */
-int modulus(int a, int b) {
+int mod(int a, int b) {
     return a % b;
 }
 

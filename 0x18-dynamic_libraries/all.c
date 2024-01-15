@@ -42,12 +42,12 @@ int modulus(int a, int b) {
 }
 
 /**
- * subtract - difference of 2 int
+ * sub - difference of 2 int
  * @a: first int
  * @b: second int
  * Return: subtraction
  */
-int subtract(int a, int b) {
+int sub(int a, int b) {
     return a - b;
 }
 
